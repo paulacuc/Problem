@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://hl7.org/fhir file:/C:/Users/Marten.FURORENT/OneDrive/FHIR/Schemas/DSTU2/conformance.xsd"
   xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <url value="http://hl7.no/fhir/Conformance/LabClient"/>
-  <name value="Laborarory Client test"/>
+  <name value="Laborarory Client"/>
   <publisher value="HL7 Norway"/>
   <date value="2015-06-02"/>
   <description
