@@ -3,7 +3,7 @@
   <meta>
     <lastUpdated value="2016-07-27T13:01:43.719+01:00" />
   </meta>
-  <url value="http://hl7.org.uk/CareConnect-AllergyIntolerance-1.structuredefinition.xml" />
+  <url value="http://hl7.org.uk/CareConnect-AllergyIntolerance" />
   <version value="1.0" />
   <name value="AllergyIntolerance-1" />
   <status value="draft" />
