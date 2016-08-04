@@ -17,7 +17,7 @@
     <element>
       <path value="AllergyIntolerance" />
       <type>
-        <code value="AllergyIntolerance" />
+        <code value="AllergyIntoleranceeee" />
       </type>
     </element>
   </differential>
