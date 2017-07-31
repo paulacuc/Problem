@@ -3,7 +3,7 @@
 	<version value="0.1-WORK" />
 	<name value="versicherungsart-de-basis" /> 
 	<status value="draft"/>
-	<publisher value="HL7 Deutschland e.V. (Technisches Komitee FHIR)" />
+	<publisher value="HL7 Deutschland e.V. (Technisches Komitee FHIR) blablabal" />
 	<content value="complete" />
 	<concept>
 		<code value="GKV" />

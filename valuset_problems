@@ -12,7 +12,7 @@
       <value value="http://hl7.de/technische-komitees/fhir/" />
     </telecom>
   </contact>
-  <description value="ValueSet für die in Deutschland üblichen Versicherungsarten" />
+  <description value="ValueSet für die in Deutschland üblichen Versicherungsarten paula" />
   <compose>
     <include>
       <system value="http://fhir.de/CodeSystem/versicherungsart-de-basis" />
