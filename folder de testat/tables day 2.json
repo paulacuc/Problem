@@ -28,7 +28,7 @@
                      }
                   },
                   "quantityQuantity": {
-                     "unit": "4",
+                     "unit": "34",
                      "system": "http://hl7.no/fhir/ValueSet/enhet-for-dosering",
                      "code": "tablett"
                   }
