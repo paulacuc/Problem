@@ -1,0 +1,38 @@
+{
+            "resourceType": "MedicationStatement",
+            "id": "from-day-2-take-1-tablet-in-the-morning",
+            "meta": {
+               "profile": [
+                  "http://hl7.no/fhir/StructureDefinition/m1-prescribing"
+               ]
+            },
+            "effectivePeriod": {
+               "start": "2012-11-01T00:00:00"
+            },
+            "dosage": [
+               {
+                  "timing": {
+                     "extension": [
+                        {
+                           "url": "http://hl7.no/fhir/StructureDefinition/timing-exact",
+                           "valueBoolean": "false"
+                        }
+                     ],
+                     "repeat": {
+                        "extension": [
+                           {
+                              "url": "http://hl7.no/fhir/StructureDefinition/timeperiod",
+                              "valueCode": "1"
+                           }
+                        ]
+                     }
+                  },
+                  "quantityQuantity": {
+                     "unit": "4",
+                     "system": "http://hl7.no/fhir/ValueSet/enhet-for-dosering",
+                     "code": "tablett"
+                  }
+               }
+            ]
+         }
+ 
